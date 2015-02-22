@@ -1,6 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Jason Feinstein <jason.feinstein@gmail.com>
-ENV LAST_CHANGED 2014-01-14T13:06EST
+MAINTAINER Joshua Jacobs <josh@mandala-designs.com>
 
 # make sure the package repository is up to date
 RUN apt-get -y update
